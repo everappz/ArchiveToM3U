@@ -4,6 +4,8 @@ Create and export `.m3u` playlists directly from Internet Archive items — incl
 
 🔗 **Live demo**: [archivetom3u.com](https://archivetom3u.com)
 
+![Internet Archive M3U Playlist Builder screenshot](screenshot.png)
+
 ## 🚀 Features
 
 - 🎧 Streamable `.m3u` playlists from **archive.org** items  
